@@ -10,6 +10,7 @@ namespace CreateProjectFolder
     {
         static void Main(string[] args)
         {
+            var pi = new ProjectInfo("GAC", "200258798");
         }
     }
 }
